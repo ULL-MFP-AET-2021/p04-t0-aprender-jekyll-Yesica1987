@@ -1,4 +1,5 @@
 ---
+layout: default
 name: Tema1
 visible: true
 date: 2020-11-19
